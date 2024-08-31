@@ -1,0 +1,3 @@
+SoC     DEVICE                          KEY
+SC6531  Nokia 105 (TA-1203)             7
+SC7731  Mecer M77QF6                    Vol +
